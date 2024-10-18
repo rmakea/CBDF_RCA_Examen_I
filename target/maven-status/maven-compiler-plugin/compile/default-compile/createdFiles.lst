@@ -1,0 +1,5 @@
+com\upiiz\pedidos\repository\PedidosRepository.class
+com\upiiz\pedidos\services\PedidosService.class
+com\upiiz\pedidos\PedidosApplication.class
+com\upiiz\pedidos\controllers\PedidosController.class
+com\upiiz\pedidos\models\Pedido.class

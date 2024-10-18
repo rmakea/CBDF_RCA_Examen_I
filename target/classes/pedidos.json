@@ -1,0 +1,11 @@
+[ {
+  "id" : 1,
+  "fechaPedido" : [ 2024, 1, 1, 12, 0 ],
+  "idCliente" : 123,
+  "total" : 100.5
+}, {
+  "id" : 3,
+  "fechaPedido" : [ 2024, 1, 1, 12, 0 ],
+  "idCliente" : 24,
+  "total" : 99.0
+} ]
